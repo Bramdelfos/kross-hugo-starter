@@ -3,13 +3,22 @@ banner:
   title: "<br> New Net Ninja ∞ <br> Exploring the new web <br> "
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: "A crypto revolution is unfolding before our eyes, but most of us are blinded
+    by greed and distracted by cult forming. \n\nIf I observe the Miami Bitcoin conference,
+    I see a multi-level marketing event. Screaming idiots, clearly oblivious to the
+    actual innovation that is happening. A focus on digital gold as a way the solve
+    all the problems in the world, combined with the insane ‘mental gymnastics’ needed
+    to declare that Bitcoin is actually good for the environment is bizarre to witness.
+    \n\nMost people have no idea what kind of revolution is on its way. They think
+    crypto is about speculation and criminal activity or see it as a revolution against
+    the central bankers. And in all honesty with the number of Bitcoin Gurus and the
+    amount of fake news out there I don’t blame them. Even the most ‘trusted’ crypto
+    youtubers with millions of followers often get it wrong and further enhance the
+    cults.\n\nNew Net Ninja will be the documentation of my journey into crypto and
+    is meant to educate myself and others on the future of crypto and the opportunities
+    which it might enable. "
   button:
-    enable: true
+    enable: false
     label: know more
     URL: about
 skill:

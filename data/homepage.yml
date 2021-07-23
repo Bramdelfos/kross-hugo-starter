@@ -2,7 +2,7 @@
 banner:
   title: "<br> New Net Ninja ∞ <br> Exploring the new web <br> "
 about:
-  enable: true
+  enable: false
   content: "A crypto revolution is unfolding before our eyes, but most of us are blinded
     by greed and distracted by cult forming. \n\nIf I observe the Miami Bitcoin conference,
     I see a multi-level marketing event. Screaming idiots, clearly oblivious to the
@@ -38,7 +38,7 @@ skill:
     progress: 70%
     color: "#ffbcaa"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
@@ -70,7 +70,7 @@ education:
     year: "1998"
     academy: Cardiff School
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -93,7 +93,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez

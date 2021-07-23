@@ -90,8 +90,8 @@ service:
     highlighted: false
 portfolio:
   enable: true
-  title: Portfolio
-  item_show: "5"
+  title: ''
+  item_show: "10"
 testimonial:
   enable: false
   title: Testimonials
@@ -145,4 +145,4 @@ clients_logo_slider:
     URL: "#"
 blog:
   enable: true
-  title: Blogs
+  title: ''

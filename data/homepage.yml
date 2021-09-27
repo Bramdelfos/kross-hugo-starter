@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "<br> New Net Ninja ∞ <br> Demystifying web3 <br> "
+  title: "<br> New Net Ninja <br> Demystifying the Token economy <br> "
 about:
   enable: false
   content: "A crypto revolution is unfolding before our eyes, but most of us are blinded
@@ -22,7 +22,7 @@ about:
     label: know more
     URL: about
 skill:
-  enable: false
+  enable: true
   title: Skills
   item:
   - title: Web Design
@@ -38,7 +38,7 @@ skill:
     progress: 70%
     color: "#ffbcaa"
 experience:
-  enable: false
+  enable: true
   title: Experience
   item:
   - logo: images/experience/icon-1.png
@@ -54,7 +54,7 @@ experience:
     company: THEMEFISHER
     duration: Sep 2014 - Present
 education:
-  enable: false
+  enable: true
   title: Education
   item:
   - title: Marters in UX Design
@@ -70,7 +70,7 @@ education:
     year: "1998"
     academy: Cardiff School
 service:
-  enable: false
+  enable: true
   title: Services
   item:
   - title: UI Design
@@ -93,7 +93,7 @@ portfolio:
   title: ''
   item_show: "10"
 testimonial:
-  enable: false
+  enable: true
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -121,7 +121,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable: false
+  enable: true
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com

@@ -27,8 +27,8 @@ description = "This is meta description"
 email = "delfosbram@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = ""
-phone = ""
+logo = "/images/dfinity_logo.png"
+phone = "-"
 theme_color = "#41228e"
 [params.contact]
 enable = true

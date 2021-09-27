@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "<br> New Net Ninja <br> Demystifying the Token economy <br> "
+  title: "<br> New Net Ninja: <br> Demystifying web3 <br> "
 about:
   enable: false
   content: "A crypto revolution is unfolding before our eyes, but most of us are blinded
@@ -91,7 +91,7 @@ service:
 portfolio:
   enable: true
   title: ''
-  item_show: "10"
+  item_show: "5"
 testimonial:
   enable: true
   title: Testimonials

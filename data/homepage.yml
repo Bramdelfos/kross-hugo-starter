@@ -9,9 +9,10 @@ about:
     enable: true
     label: know more
     URL: about
+education:
+  enable: true
 skill:
   enable: true
-  title: Skills
   item:
   - title: Web Design
     progress: 10%
@@ -41,8 +42,6 @@ experience:
     title: Senior UI Designer
     company: THEMEFISHER
     duration: Sep 2014 - Present
-education:
-  enable: true
 service:
   enable: true
   title: Services
@@ -63,11 +62,11 @@ service:
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -95,7 +94,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable: true
+  enable: false
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com

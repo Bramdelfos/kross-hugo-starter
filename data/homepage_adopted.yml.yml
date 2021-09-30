@@ -146,3 +146,5 @@ clients_logo_slider:
 blog:
   enable: true
   title: Blog
+title: homepage_adopted.yml
+draft: true

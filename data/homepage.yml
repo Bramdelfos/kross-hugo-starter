@@ -26,17 +26,17 @@ education:
     year: "1998"
     academy: Cardiff School
 skill:
-  enable: false
+  enable: true
   title: Skills
   item:
   - title: Web Design
-    progress: 10%
+    progress: 60%
     color: "#fdb157"
   - title: Logo Design
     progress: 90%
     color: "#9473e6"
   - title: After Effects
-    progress: 10%
+    progress: 60%
     color: "#bdecf6"
   - title: Web App
     progress: 90%

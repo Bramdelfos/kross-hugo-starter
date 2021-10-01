@@ -27,7 +27,7 @@ education:
     academy: Cardiff School
 skill:
   enable: true
-  title:
+  title: Skills
   item:
   - title: Web Design
     progress: 60%
